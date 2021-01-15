@@ -1,7 +1,7 @@
 # OceanColorMusic
 Code to translate ocean color into music
 
-Contents:\n
+Contents:  
 get_oceancolor_data.py: Code to load in ocean color data from NASA internet serves and save it as csv, txt, or json file
 
 convert_data.py: Code to convert data into a MIDI file
